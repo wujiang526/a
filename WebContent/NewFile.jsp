@@ -27,6 +27,7 @@ a{
 <table>
 	<tr>
 		<td>this is a newfile.jsp</td>
+		<td>this is a git1</td>
 	</tr>
 </table>
 </form>
